@@ -8,7 +8,7 @@
 <a href="#"><img title="FidhaMwol" src="https://img.shields.io/badge/HYPER SIR-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://chat.whatsapp.com/DwfuSbumUA3DoXYyyNlPSt"><img title="join support" src="https://img.shields.io/badge/join_support-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://wa.me/+917025967090"><img title="OWNER" src="https://img.shields.io/badge/contact_developer-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
